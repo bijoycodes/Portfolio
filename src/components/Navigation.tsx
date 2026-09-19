@@ -59,7 +59,7 @@ export const Navigation = () => {
         <div className="hidden md:flex items-center gap-3">
           <Button variant="ghost" size="icon" asChild>
             <a
-              href="https://github.com/bijoyhassan23"
+              href="https://github.com/bijoycodes"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="GitHub"
