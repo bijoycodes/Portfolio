@@ -55,7 +55,7 @@ A modern, responsive portfolio website showcasing my work as a Team Lead & Full-
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/bijoyhassan23/portfolio.git
+   git clone https://github.com/bijoycodes/portfolio.git
    cd portfolio
    ```
 
@@ -160,11 +160,11 @@ theme: {
 
 ## 📧 Contact
 
-- **Email**: bijoyhassan23@gmail.com
+- **Email**: bijoycodes@gmail.com
 - **Phone**: +8801995581952
 - **Location**: Dhaka, Bangladesh
-- **GitHub**: [@bijoyhassan23](https://github.com/bijoyhassan23)
-- **LinkedIn**: [bijoyhassan23](https://linkedin.com/in/bijoyhassan23)
+- **GitHub**: [@bijoycodes](https://github.com/bijoycodes)
+- **LinkedIn**: [bijoycodes](https://linkedin.com/in/bijoycodes)
 
 ## 📄 License
 

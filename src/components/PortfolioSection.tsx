@@ -170,7 +170,7 @@ export const PortfolioSection = () => {
           >
             <Button variant="outline" size="lg" asChild>
               <a
-                href="https://github.com/bijoyhassan23"
+                href="https://github.com/bijoycodes"
                 target="_blank"
                 rel="noopener noreferrer"
               >

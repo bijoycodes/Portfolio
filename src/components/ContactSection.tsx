@@ -15,8 +15,8 @@ const contactInfo = [
   {
     icon: Mail,
     label: "Email",
-    value: "bijoyhassan23@gmail.com",
-    href: "mailto:bijoyhassan23@gmail.com",
+    value: "bijoycodes@gmail.com",
+    href: "mailto:bijoycodes@gmail.com",
   },
   {
     icon: Phone,
@@ -36,7 +36,7 @@ const socialLinks = [
   {
     icon: Github,
     label: "GitHub",
-    href: "https://github.com/bijoyhassan23",
+    href: "https://github.com/bijoycodes",
   },
   {
     icon: Globe,
@@ -46,12 +46,12 @@ const socialLinks = [
   {
     icon: Linkedin,
     label: "Linkedin",
-    href: "https://linkedin.com/in/bijoyhassan23",
+    href: "https://linkedin.com/in/bijoycodes",
   },
   {
     icon: Facebook,
     label: "Facebook",
-    href: "https://facebook.com/bijoyhassan23",
+    href: "https://facebook.com/bijoycodes",
   },
 ];
 
